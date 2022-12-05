@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+Dependencies/
+*.db
+*.pdb
+*.ipch
+Debug/
